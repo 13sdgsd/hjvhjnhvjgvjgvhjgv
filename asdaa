@@ -1,0 +1,67 @@
+Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});Parallel.For(0, 10_000, async i => {
+    var item = GenerateTestItem(i);
+    await EnqueueWithPersistenceAsync(item);
+});
